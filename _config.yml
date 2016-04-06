@@ -9,7 +9,7 @@
 title: Youngeyes.info
 email: dr_munish@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Informational site for parent by parents answering questions on young eyes.
+  Informational site for parent by parents answering questions on young eyes. Please feel free to comment if you have any questions and we'll try to answer the best we can.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: shaunikm
